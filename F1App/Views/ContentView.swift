@@ -1,9 +1,6 @@
-//
+
 //  ContentView.swift
-//  F1App
-//
-//  Created by Bruno Radić on 25.09.2025..
-//
+
 
 import SwiftUI
 
