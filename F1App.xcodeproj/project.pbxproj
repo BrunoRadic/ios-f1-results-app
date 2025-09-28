@@ -10,9 +10,33 @@
 		67435FEF2E85DF2D004BECAF /* F1App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = F1App.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		671570172E89D7A70063862B /* Exceptions for "F1App" folder in "F1App" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				.gitignore.txt,
+			);
+			target = 67435FEE2E85DF2D004BECAF /* F1App */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+		671570182E89D7A70063862B /* Exceptions for "F1App" folder in "Compile Sources" phase from "F1App" target */ = {
+			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
+			buildPhase = 67435FEB2E85DF2D004BECAF /* Sources */;
+			membershipExceptions = (
+				.gitignore.txt,
+			);
+		};
+/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		67435FF12E85DF2D004BECAF /* F1App */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				671570172E89D7A70063862B /* Exceptions for "F1App" folder in "F1App" target */,
+				671570182E89D7A70063862B /* Exceptions for "F1App" folder in "Compile Sources" phase from "F1App" target */,
+			);
 			path = F1App;
 			sourceTree = "<group>";
 		};
